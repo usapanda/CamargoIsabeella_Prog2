@@ -3,7 +3,9 @@
 
 <img src="https://img.freepik.com/vector-gratis/veterinario-muchos-tipos-animales_1308-65733.jpg?w=2000">
 
+Con animalitos del bosque podras registrar a tu peludito con todos tus dato. De igual forma podras escoger el veterinario que mejor se ajuste a tus necesidades ya que cada veterinario esta calificado de 1 a 5 estrellas 
 
+<img src="https://previews.123rf.com/images/thidaratsuteeratat/thidaratsuteeratat2301/thidaratsuteeratat230100072/197365803-concepto-de-retroalimentaci%C3%B3n-de-satisfacci%C3%B3n-del-cliente-personas-con-5-estrellas-sobre-la-cabeza.jpg">
 
 Este repositorio contiene el código fuente de Animalitos del bosque . Esta aplicación web está diseñada para ayudar a gestionar los registros y la atención médica de los animales en la clínica veterinaria.
 
@@ -12,15 +14,14 @@ Este repositorio contiene el código fuente de Animalitos del bosque . Esta apli
 - Registro y gestión de veterinarios y mascotas.
 - Gestión de empleados y animalitos atendidos.
 
-<img src="https://drive.google.com/file/d/1oSbxYEXMifEb9-_HN1XvlQDlin2T3BGU/view?usp=sharing">
+<img src="">
 
 ## Gerente
 
 - Isabella Camargo ((https://github.com/usapanda)
-<img src="https://img.freepik.com/vector-gratis/veterinario-muchos-tipos-animales_1308-65733.jpg?w=2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCKhH9yJk1s28nbIeH1v0DIJo3S6edfo6g68sONjyb_FsZOf">
 
 
 ## Contacto
 
 
-¡Gracias por visualizarme. por favor ayudame a pasar programacion 2 :'D !
+¡Gracias por visualizarme. por favor ayudame a pasar programacion 2 POR FAVOR :'D !
