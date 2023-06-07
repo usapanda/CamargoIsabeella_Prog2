@@ -14,7 +14,7 @@ Este repositorio contiene el código fuente de Animalitos del bosque . Esta apli
 - Registro y gestión de veterinarios y mascotas.
 - <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3DZM1clEaPOIVzkf1gWEU-loduiuwd2KQxYNXH9IfvwYghPJu2hMYqbFTYAyXUjfrGkri4DxEe7mx4bxfL_n_o9fdre3fPvqyMaTvZraQNqfuxsSCoPR7PEHCareOFoP5uAri44flQPj3jagERnKSx7c0zq6kQJ3tb80N056xPxAQKtcFE3gOus9rSw">
 - Gestión de empleados y animalitos atendidos.
-<img src="[https://hjdghjghg.blogspot.com/2023/06/vvvvvv.html](https://hjdghjghg.blogspot.com/2023/06/vvvvvv.html)](https://blogger.googleusercontent.com/img/a/AVvXsEhnKyl2Vgk7r74Y1t7rf2a_umLRJIa-tZvMjs3QkUN9hr0lLJd4F4Am9dZGS0oOEMfs4mZp29_zJm_qjtedE0xXI7YDuqaPlyOGeBExElZbjLxAD4MJZKOnq1O6fCwri9EKVFPyhP5DL9APc4O-iunYAlZmmOp5Hl_wotCZTiiZ425PyAm1hsZr5xzXwQ=w703-h396)">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhnKyl2Vgk7r74Y1t7rf2a_umLRJIa-tZvMjs3QkUN9hr0lLJd4F4Am9dZGS0oOEMfs4mZp29_zJm_qjtedE0xXI7YDuqaPlyOGeBExElZbjLxAD4MJZKOnq1O6fCwri9EKVFPyhP5DL9APc4O-iunYAlZmmOp5Hl_wotCZTiiZ425PyAm1hsZr5xzXwQ=w703-h396">
 ## Gerente
 
 - Isabella Camargo ((https://github.com/usapanda)
