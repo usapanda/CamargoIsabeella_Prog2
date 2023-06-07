@@ -17,7 +17,7 @@ Este repositorio contiene el código fuente de Animalitos del bosque . Esta apli
 ## Gerente
 
 - Isabella Camargo ((https://github.com/usapanda)
-<img src="[https://img.freepik.com/vector-gratis/veterinario-muchos-tipos-animales_1308-65733.jpg?w=2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCKhH9yJk1s28nbIeH1v0DIJo3S6edfo6g68sONjyb_FsZOf)">
+<img src="https://img.freepik.com/vector-gratis/veterinario-muchos-tipos-animales_1308-65733.jpg?w=2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCKhH9yJk1s28nbIeH1v0DIJo3S6edfo6g68sONjyb_FsZOf">
 
 
 ## Contacto
