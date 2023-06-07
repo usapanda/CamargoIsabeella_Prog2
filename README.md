@@ -12,10 +12,9 @@ Este repositorio contiene el código fuente de Animalitos del bosque . Esta apli
 ## Características
 
 - Registro y gestión de veterinarios y mascotas.
+- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3DZM1clEaPOIVzkf1gWEU-loduiuwd2KQxYNXH9IfvwYghPJu2hMYqbFTYAyXUjfrGkri4DxEe7mx4bxfL_n_o9fdre3fPvqyMaTvZraQNqfuxsSCoPR7PEHCareOFoP5uAri44flQPj3jagERnKSx7c0zq6kQJ3tb80N056xPxAQKtcFE3gOus9rSw">
 - Gestión de empleados y animalitos atendidos.
-
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3DZM1clEaPOIVzkf1gWEU-loduiuwd2KQxYNXH9IfvwYghPJu2hMYqbFTYAyXUjfrGkri4DxEe7mx4bxfL_n_o9fdre3fPvqyMaTvZraQNqfuxsSCoPR7PEHCareOFoP5uAri44flQPj3jagERnKSx7c0zq6kQJ3tb80N056xPxAQKtcFE3gOus9rSw">
-
+<img src="https://hjdghjghg.blogspot.com/2023/06/vvvvvv.html">
 ## Gerente
 
 - Isabella Camargo ((https://github.com/usapanda)
