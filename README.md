@@ -14,7 +14,7 @@ Este repositorio contiene el código fuente de Animalitos del bosque . Esta apli
 - Registro y gestión de veterinarios y mascotas.
 - Gestión de empleados y animalitos atendidos.
 
-<img src="">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3DZM1clEaPOIVzkf1gWEU-loduiuwd2KQxYNXH9IfvwYghPJu2hMYqbFTYAyXUjfrGkri4DxEe7mx4bxfL_n_o9fdre3fPvqyMaTvZraQNqfuxsSCoPR7PEHCareOFoP5uAri44flQPj3jagERnKSx7c0zq6kQJ3tb80N056xPxAQKtcFE3gOus9rSw">
 
 ## Gerente
 
