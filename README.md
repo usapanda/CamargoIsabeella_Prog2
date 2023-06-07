@@ -5,7 +5,7 @@
 
 Con animalitos del bosque podras registrar a tu peludito con todos tus dato. De igual forma podras escoger el veterinario que mejor se ajuste a tus necesidades ya que cada veterinario esta calificado de 1 a 5 estrellas 
 
-<img src="https://previews.123rf.com/images/thidaratsuteeratat/thidaratsuteeratat2301/thidaratsuteeratat230100072/197365803-concepto-de-retroalimentaci%C3%B3n-de-satisfacci%C3%B3n-del-cliente-personas-con-5-estrellas-sobre-la-cabeza.jpg">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiPJmuZqvqlRTofB8mqdBH_q9C_JmNBi_B_PAF9DsJHmCfvDE1Tk9nPMi2w1d3JYwbw24FUHm7ghP-ZdQXXV9VWa9O_WitunMkzTnwBOPF8nvmDbHWHwP8Jk2vL11D5kfVpDzPup9ku-psOWYa2d4E6ksoFaCy6cby3mDrsYrP_4Sn5_5ulm06g6X6lvg=w728-h409">
 
 Este repositorio contiene el código fuente de Animalitos del bosque . Esta aplicación web está diseñada para ayudar a gestionar los registros y la atención médica de los animales en la clínica veterinaria.
 
