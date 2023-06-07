@@ -1,7 +1,7 @@
 # CamargoIsabella_Prog2
 # Veterinaria [Animalitos del bosque]
 
-!(https://holavet.com.ar/wp-content/uploads/2021/08/hola-VET-2.gif))
+!(https://holavet.com.ar/wp-content/uploads/2021/08/hola-VET-2.gif0)
 
 
 Este repositorio contiene el código fuente de Animalitos del bosque . Esta aplicación web está diseñada para ayudar a gestionar los registros y la atención médica de los animales en la clínica veterinaria.
